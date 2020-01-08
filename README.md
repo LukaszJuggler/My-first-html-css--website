@@ -1,3 +1,4 @@
-# My-first-website
+# juggling-website
 
-https://lukaszuczkiewicz.github.io/My-first-html-css--website/
+My first html and css website
+https://lukaszuczkiewicz.github.io/juggling-website/
